@@ -13,9 +13,9 @@
   },
   {
     "full_name": "6mile/DevSecOps-Playbook",
-    "stargazers_count": 785,
+    "stargazers_count": 787,
     "open_issues_count": 0,
-    "forks_count": 130
+    "forks_count": 131
   },
   {
     "full_name": "mmphego/mmphego",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "RunaCapital/awesome-oss-alternatives",
-    "stargazers_count": 11436,
+    "stargazers_count": 11472,
     "open_issues_count": 13,
-    "forks_count": 574
+    "forks_count": 577
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 43410,
-    "open_issues_count": 280,
-    "forks_count": 10426
+    "stargazers_count": 43525,
+    "open_issues_count": 282,
+    "forks_count": 10454
   },
   {
     "full_name": "alphagov/accessible-autocomplete",
-    "stargazers_count": 741,
-    "open_issues_count": 121,
+    "stargazers_count": 742,
+    "open_issues_count": 122,
     "forks_count": 129
   },
   {
     "full_name": "johannesjo/super-productivity",
-    "stargazers_count": 5347,
-    "open_issues_count": 144,
-    "forks_count": 495
+    "stargazers_count": 5358,
+    "open_issues_count": 145,
+    "forks_count": 497
   },
   {
     "full_name": "ChartsCSS/charts.css",
@@ -67,116 +67,116 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 720,
+    "stargazers_count": 723,
     "open_issues_count": 16,
-    "forks_count": 315
+    "forks_count": 317
   },
   {
     "full_name": "slinkity/slinkity",
-    "stargazers_count": 348,
+    "stargazers_count": 352,
     "open_issues_count": 13,
     "forks_count": 25
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 142569,
-    "open_issues_count": 11020,
-    "forks_count": 22677
+    "stargazers_count": 142646,
+    "open_issues_count": 11039,
+    "forks_count": 22699
   },
   {
     "full_name": "pi-hole/pi-hole",
-    "stargazers_count": 37317,
-    "open_issues_count": 34,
+    "stargazers_count": 37443,
+    "open_issues_count": 36,
     "forks_count": 2308
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 8314,
-    "open_issues_count": 1445,
-    "forks_count": 3202
+    "stargazers_count": 8325,
+    "open_issues_count": 1470,
+    "forks_count": 3215
   },
   {
     "full_name": "date-fns/date-fns",
-    "stargazers_count": 29190,
+    "stargazers_count": 29201,
     "open_issues_count": 419,
-    "forks_count": 1473
+    "forks_count": 1477
   },
   {
     "full_name": "remarkjs/remark",
-    "stargazers_count": 5357,
+    "stargazers_count": 5367,
     "open_issues_count": 4,
     "forks_count": 330
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 23171,
-    "open_issues_count": 83,
-    "forks_count": 881
+    "stargazers_count": 23216,
+    "open_issues_count": 85,
+    "forks_count": 884
   },
   {
     "full_name": "jonschlinkert/gray-matter",
-    "stargazers_count": 2605,
+    "stargazers_count": 2609,
     "open_issues_count": 48,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 26462,
+    "stargazers_count": 26477,
     "open_issues_count": 12,
-    "forks_count": 1511
+    "forks_count": 1510
   },
   {
     "full_name": "JedWatson/classnames",
-    "stargazers_count": 15517,
+    "stargazers_count": 15527,
     "open_issues_count": 13,
     "forks_count": 534
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 58732,
-    "open_issues_count": 18,
-    "forks_count": 2950
+    "stargazers_count": 58827,
+    "open_issues_count": 20,
+    "forks_count": 2955
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 89462,
-    "open_issues_count": 1265,
-    "forks_count": 19232
+    "stargazers_count": 89644,
+    "open_issues_count": 1271,
+    "forks_count": 19287
   },
   {
     "full_name": "ethers-io/ethers.js",
-    "stargazers_count": 5288,
-    "open_issues_count": 255,
-    "forks_count": 1164
+    "stargazers_count": 5298,
+    "open_issues_count": 253,
+    "forks_count": 1169
   },
   {
     "full_name": "ReactiveX/rxjs",
-    "stargazers_count": 27301,
+    "stargazers_count": 27330,
     "open_issues_count": 260,
-    "forks_count": 2825
+    "forks_count": 2828
   },
   {
     "full_name": "Hekili/hekili",
-    "stargazers_count": 139,
-    "open_issues_count": 22,
-    "forks_count": 57
+    "stargazers_count": 140,
+    "open_issues_count": 23,
+    "forks_count": 58
   },
   {
     "full_name": "gatsbyjs/gatsby-starter-shopify",
-    "stargazers_count": 253,
+    "stargazers_count": 252,
     "open_issues_count": 20,
     "forks_count": 114
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 6859,
-    "open_issues_count": 13,
-    "forks_count": 1207
+    "stargazers_count": 6915,
+    "open_issues_count": 15,
+    "forks_count": 1224
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 83975,
-    "open_issues_count": 1513,
-    "forks_count": 7429
+    "stargazers_count": 84039,
+    "open_issues_count": 1511,
+    "forks_count": 7435
   }
 ]
